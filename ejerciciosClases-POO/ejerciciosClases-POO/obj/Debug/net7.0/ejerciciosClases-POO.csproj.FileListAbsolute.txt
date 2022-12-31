@@ -1,0 +1,15 @@
+/Users/Summer/Documents/devLigths/ejerciciosClases&POO/ejerciciosClases-POO/ejerciciosClases-POO/ejerciciosClases-POO/obj/Debug/net7.0/ejerciciosClases-POO.csproj.AssemblyReference.cache
+/Users/Summer/Documents/devLigths/ejerciciosClases&POO/ejerciciosClases-POO/ejerciciosClases-POO/ejerciciosClases-POO/obj/Debug/net7.0/ejerciciosClases-POO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Summer/Documents/devLigths/ejerciciosClases&POO/ejerciciosClases-POO/ejerciciosClases-POO/ejerciciosClases-POO/obj/Debug/net7.0/ejerciciosClases-POO.AssemblyInfoInputs.cache
+/Users/Summer/Documents/devLigths/ejerciciosClases&POO/ejerciciosClases-POO/ejerciciosClases-POO/ejerciciosClases-POO/obj/Debug/net7.0/ejerciciosClases-POO.AssemblyInfo.cs
+/Users/Summer/Documents/devLigths/ejerciciosClases&POO/ejerciciosClases-POO/ejerciciosClases-POO/ejerciciosClases-POO/obj/Debug/net7.0/ejerciciosClases-POO.csproj.CoreCompileInputs.cache
+/Users/Summer/Documents/devLigths/ejerciciosClases&POO/ejerciciosClases-POO/ejerciciosClases-POO/ejerciciosClases-POO/bin/Debug/net7.0/ejerciciosClases-POO
+/Users/Summer/Documents/devLigths/ejerciciosClases&POO/ejerciciosClases-POO/ejerciciosClases-POO/ejerciciosClases-POO/bin/Debug/net7.0/ejerciciosClases-POO.deps.json
+/Users/Summer/Documents/devLigths/ejerciciosClases&POO/ejerciciosClases-POO/ejerciciosClases-POO/ejerciciosClases-POO/bin/Debug/net7.0/ejerciciosClases-POO.runtimeconfig.json
+/Users/Summer/Documents/devLigths/ejerciciosClases&POO/ejerciciosClases-POO/ejerciciosClases-POO/ejerciciosClases-POO/bin/Debug/net7.0/ejerciciosClases-POO.dll
+/Users/Summer/Documents/devLigths/ejerciciosClases&POO/ejerciciosClases-POO/ejerciciosClases-POO/ejerciciosClases-POO/bin/Debug/net7.0/ejerciciosClases-POO.pdb
+/Users/Summer/Documents/devLigths/ejerciciosClases&POO/ejerciciosClases-POO/ejerciciosClases-POO/ejerciciosClases-POO/obj/Debug/net7.0/ejerciciosClases-POO.dll
+/Users/Summer/Documents/devLigths/ejerciciosClases&POO/ejerciciosClases-POO/ejerciciosClases-POO/ejerciciosClases-POO/obj/Debug/net7.0/refint/ejerciciosClases-POO.dll
+/Users/Summer/Documents/devLigths/ejerciciosClases&POO/ejerciciosClases-POO/ejerciciosClases-POO/ejerciciosClases-POO/obj/Debug/net7.0/ejerciciosClases-POO.pdb
+/Users/Summer/Documents/devLigths/ejerciciosClases&POO/ejerciciosClases-POO/ejerciciosClases-POO/ejerciciosClases-POO/obj/Debug/net7.0/ejerciciosClases-POO.genruntimeconfig.cache
+/Users/Summer/Documents/devLigths/ejerciciosClases&POO/ejerciciosClases-POO/ejerciciosClases-POO/ejerciciosClases-POO/obj/Debug/net7.0/ref/ejerciciosClases-POO.dll
